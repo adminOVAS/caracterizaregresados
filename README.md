@@ -1,2 +1,2 @@
-# caracterizaregresados
-caracterizar
+# karacterizar
+caracterizar estudiantes
